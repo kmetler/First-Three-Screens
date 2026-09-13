@@ -60,13 +60,13 @@ Yes. Both are the product actively working (swiping, then the group result) rath
 
 **Before / after:**
 Initial make:
-!(First_Build.png)
+![First Build](First_Build.png)
 
 Initial commit (unedited AI output): https://github.com/kmetler/First-Three-Screens/commit/605523ebf1b226bdda0b9643079bacec9eca47c1
-!(Second_Build.png)
+![Second Build](Second_Build.png)
 
 Final make:
-!(Final_Build.png)
+![Final Build](Final_Build.png)
 
 Before: header showed two unlabeled colored dots next to plain "MunchMatch" text, with no back-navigation on the swipe or match screens.
 After: dots replaced with a heart-badge logo; back-navigation added to both secondary screens; "THE GROUP PICKED" enlarged for visibility.
