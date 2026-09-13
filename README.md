@@ -59,7 +59,14 @@ Yes. Both are the product actively working (swiping, then the group result) rath
 3. **Text sizing on the match reveal screen** — "THE GROUP PICKED" was undersized relative to its importance as the payoff moment of the whole app, so it faded into the background instead of announcing the result. Increased its size so it reads as the headline it should be.
 
 **Before / after:**
+Initial make:
+!(First_Build.png)
+
 Initial commit (unedited AI output): https://github.com/kmetler/First-Three-Screens/commit/605523ebf1b226bdda0b9643079bacec9eca47c1
+!(Second_Build.png)
+
+Final make:
+!(Final_Build.png)
 
 Before: header showed two unlabeled colored dots next to plain "MunchMatch" text, with no back-navigation on the swipe or match screens.
 After: dots replaced with a heart-badge logo; back-navigation added to both secondary screens; "THE GROUP PICKED" enlarged for visibility.
